@@ -1,0 +1,13 @@
+{
+    "modelName":"resnet50",
+    "GPU resources":[100],
+    "max batchsize":420,
+    "batch size list":[1,2,4,8,16,32,48,64,80,96,112,128,144,160,176,192,208,224,240,256],
+    "SLO":100,
+    "belta":0.9,
+    "model repository": "",
+    "data set path":"",
+    "log file path": "",
+    "Power Cap": 170,
+    "alpha": 0.98
+}

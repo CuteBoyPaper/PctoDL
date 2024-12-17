@@ -1,0 +1,8 @@
+gevent==24.2.1
+matplotlib==3.9.3
+pandas==2.2.3
+Pillow==11.0.0
+pynvml==11.5.0
+torch==2.3.1
+torchvision==0.18.1
+tritonclient[all]==2.48.0
